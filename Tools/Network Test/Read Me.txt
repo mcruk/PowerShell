@@ -1,0 +1,2 @@
+CTS, LATTE,NTTCP are standalone tools.  use Network Performance Visulaization to gernerate
+graphs from CTS, LATTE,NTTCP.  RUN CTS, LATTE,NTTCP FIRST.
