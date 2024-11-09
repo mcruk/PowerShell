@@ -1,0 +1,17 @@
+Use GLPI barcode plugin to export qrcodes.  use this tool to customise the qrcode label and also add standard barcodes.
+=================ONE TIME ONLY============================
+
+Make sure Microsoft net framework 4.8.1 is installed 
+Make sure Microsoft Visual C++ Redistributable is installed
+Make sure .NET 6.0 SDK is installed 
+
+Install font \dependencies\Font
+
+place qrcoder.dll in C:\Windows\System32\WindowsPowerShell\v1.0\Modules\qrcoder\zxing.dll 
+unblock dll
+ 
+place zxing.dll C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Zxing\
+unblock dll
+
+
+
