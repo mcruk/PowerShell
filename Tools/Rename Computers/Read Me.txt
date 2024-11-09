@@ -1,0 +1,5 @@
+CSV must be comma del and have columns    currentname	NewName
+Computers do not need to be logged in just at the welcome screen.
+
+
+If renaming laptops you may need an ethernet cable.
