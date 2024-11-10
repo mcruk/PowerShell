@@ -1,0 +1,1 @@
+msiexec /i "A+ SIMS App Installer - MSI.msi" /qr ALLUSERS=1

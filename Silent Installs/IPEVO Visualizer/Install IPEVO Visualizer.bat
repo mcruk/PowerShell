@@ -1,0 +1,1 @@
+MsiExec.exe /i "Visualizer_win7-11_v3.5.0.5.msi" ALLUSERS=1 AcceptEULA=1 /qn

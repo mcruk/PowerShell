@@ -1,0 +1,1 @@
+"%ProgramFiles(x86)%\Sound2Game\unins000.exe" /SILENT

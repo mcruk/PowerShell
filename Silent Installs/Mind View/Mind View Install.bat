@@ -1,0 +1,1 @@
+msiexec /i "setup.msi" /qr ALLUSERS=1

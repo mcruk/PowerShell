@@ -1,0 +1,1 @@
+msiexec /i "ZoomInstallerFull.msi" /quiet /qn /norestart

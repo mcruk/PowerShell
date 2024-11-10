@@ -1,0 +1,1 @@
+"Scratch 3.29.1 Setup.exe" /allusers /S

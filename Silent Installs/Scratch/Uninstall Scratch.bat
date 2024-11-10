@@ -1,0 +1,1 @@
+"%ProgramFiles(x86)%\Scratch 3\Uninstall Scratch 3.exe" /allusers /S

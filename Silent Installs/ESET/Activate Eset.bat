@@ -1,0 +1,1 @@
+"C:\Program Files\ESET\ESET Security\ermm.exe" start activation --key "XXXX-XXX-XXX-XXX-XXX"

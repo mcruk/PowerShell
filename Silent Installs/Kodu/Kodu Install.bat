@@ -1,0 +1,1 @@
+msiexec /i "KoduSetup_1.6.12.0.msi" /qr ALLUSERS=1

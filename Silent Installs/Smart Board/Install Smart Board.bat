@@ -1,0 +1,2 @@
+@echo off
+msiexec /i "SMARTEducationSoftware.msi" /qr INSTALL_NOTEBOOK=1 INSTALL_BOARD=1 INSTALL_INK="" LAT_CONTENT="" FULL_GALLERY="" ALLUSERS=1

@@ -1,0 +1,1 @@
+"%ProgramFiles%\FlashIntegro\unins000.exe" /SILENT

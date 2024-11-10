@@ -1,0 +1,1 @@
+"npp.8.4.7.Installer.x64.exe" /S

@@ -1,0 +1,1 @@
+"%ProgramFiles%\VideoLAN\VLC\uninstall.exe" /S
