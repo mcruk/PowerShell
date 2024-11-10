@@ -1,0 +1,1 @@
+user.memberof -any (group.objectId -in ['e3c88c20-7da3-480d-a956-152bd4312a9d'])
