@@ -1,0 +1,1 @@
+"Packet_Tracer822_64bit_setup_signed.exe" /SILENT /CLOSEAPPLICATIONS /NORESTART

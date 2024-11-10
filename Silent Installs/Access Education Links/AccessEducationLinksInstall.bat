@@ -1,0 +1,1 @@
+msiexec /i "AccessEducationLinks.msi" /qr ALLUSERS=1
