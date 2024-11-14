@@ -1,0 +1,1 @@
+cmd /c start /min "" powershell -WindowStyle Hidden -ExecutionPolicy Bypass -File "\\YOURUNC\netlogon\scripts\DetentionPopup\popup.ps1"
